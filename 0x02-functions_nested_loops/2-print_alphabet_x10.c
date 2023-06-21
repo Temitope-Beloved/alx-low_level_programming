@@ -1,3 +1,7 @@
+#include main.h
+void print_alphabet_x10(void);
+int main()
+{
 char ch;
 
 int cool =0;
@@ -11,4 +15,5 @@ int cool =0;
     }
     putchar('\n');
     cool++;
+}
 }
