@@ -1,6 +1,5 @@
 #define  _HEADER_
 #ifndef _HEADER_
-
 /**
  * struct op - Struct op
  *
